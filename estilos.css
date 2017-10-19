@@ -1,0 +1,43 @@
+.contenedor1{
+	background: red;
+	width: 600px;
+	height: 600px;
+	position: absolute;
+}
+.cajamedio1{
+	background: purple;
+	width: 300px;
+	height: 300px;
+	position: relative;
+	top:150px;
+	margin-left:150px;
+}
+.cajachica1{
+	background: yellow;
+	width: 150px;
+	height: 150px;
+	position:relative;
+}
+
+.contenedor{
+	background: blue;
+	width: 600px;
+	height: 600px;
+	position: absolute;
+	margin-top: 400px;
+}
+.cajamedio{
+	background: green;
+	width: 300px;
+	height: 300px;
+	position: relative;
+	top:150px;
+	margin-left:150px;
+	margin-top:400px;
+}
+.cajachica{
+	background: black;
+	width: 150px;
+	height: 150px;
+	position:relative;
+}
